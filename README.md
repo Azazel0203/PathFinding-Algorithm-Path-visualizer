@@ -3,6 +3,7 @@
 A simple interactive pathfinding visualizer using JavaScript and the p5.js library.
 
 ![PathFinder Demo](https://raw.githubusercontent.com/Azazel0203/PathFinding-Algorithm-Path-visualizer/main/ezgif.com-gif-maker%20(1).gif)
+![Path](https://gifyu.com/image/Sgdp0)
 
 ## Introduction
 
